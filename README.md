@@ -20,3 +20,5 @@ UI Features:
 `ionic platform add android`
 
 `ionic build`
+
+`ionic run android`
