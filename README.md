@@ -10,8 +10,13 @@ UI Features:
 ##How to build?
 
 `git clone https://github.com/ejancorp/android-smartmirror-app.git`
+
 `cd android-smartmirror-app`
+
 `npm install`
+
 `bower install`
+
 `ionic platform add android`
+
 `ionic build`
